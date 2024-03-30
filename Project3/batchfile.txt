@@ -1,0 +1,1 @@
+ls -l; echo "Hello from Batch Mode!"; whoami; echo "Batch file executed successfully."; date
